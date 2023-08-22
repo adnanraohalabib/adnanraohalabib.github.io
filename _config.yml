@@ -13,8 +13,8 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
+ Contact form:
+ - static : https://formspree.io/f/mnqkddgj
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
