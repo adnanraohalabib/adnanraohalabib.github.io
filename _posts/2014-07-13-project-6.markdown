@@ -4,6 +4,5 @@ modal-id: 6
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-category: Web Development
 description: Not getting what you want? Just make a wish. You can request any product / service / payment at cheapest price available. Just reach us out at sellnotme@gmail.com
 ---
