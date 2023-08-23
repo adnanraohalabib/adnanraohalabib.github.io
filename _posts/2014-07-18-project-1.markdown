@@ -4,7 +4,5 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-description: |
-  This is a new line.\n
-  This is another new line.\n
+description: Hello<br> THis is a new fucking line
 ---
