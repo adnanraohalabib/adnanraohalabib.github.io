@@ -7,10 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: |
-  How to buy products from us?
-  1. Just reach us out via telegram using the link:
-     [http://t.me/sellnotme](http://t.me/sellnotme)
-
-  On this group, just message the owner, he will handle the rest.
+description: "How to buy products from us? 1. Just reach us out via telegram using the link: [http://t.me/sellnotme](http://t.me/sellnotme) On this group just message the owner, he will handle the rest."
 ---
