@@ -7,8 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: To buy our products you need to contact us through telegram. We are making OPSEC (Operation Security) guides for you to make your purchase more anonymous, more secure. We have the intention to make your buying process automatic & instant, till then you just need to send a message. To buy our product or any querry, reach us out here-
-http://t.me/sellnotmebot
+description: |
+  How to buy products from us?
+  1. Just reach us out via telegram using the link:
+     [http://t.me/sellnotme](http://t.me/sellnotme)
 
-Thank you.
+  On this group, just message the owner, he will handle the rest.
 ---
