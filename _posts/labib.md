@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 # Hello
 
 ## I am checking this out
